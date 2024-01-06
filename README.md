@@ -1,6 +1,6 @@
 # Hi there, I'm Hugo U. R. Strand 
 
-I am a senior lecturer at Örebro University in Sweden, doing research on numerical simulations of many-body quantum systems, contributing to the @TRIQS library/applications.
+I am a senior lecturer at Örebro University in Sweden, doing research on numerical simulations of many-body quantum systems, and a contributor to the [TRIQS library/applications][triqs].
 
 [![website](./img/globe-light.svg)](https://www.oru.se/english/employee/hugo_strand#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://www.oru.se/english/employee/hugo_strand#gh-dark-mode-only)
@@ -16,7 +16,7 @@ I am a senior lecturer at Örebro University in Sweden, doing research on numeri
 ![HugoStrand top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoStrand&layout=compact&theme=gruvbox)
 
 
-
+[triqs]: https://github.com/TRIQS/
 [website]: https://www.oru.se/english/employee/hugo_strand
 [gscholar]: https://scholar.google.com/citations?user=-l6bz2YAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/hugo-strand
