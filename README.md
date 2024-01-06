@@ -7,7 +7,7 @@ I am a senior lecturer at Örebro University in Sweden, doing research on numeri
 &nbsp;&nbsp;
 [![website](./img/gscholar.svg)](https://scholar.google.com/citations?user=-l6bz2YAAAAJ&hl=en)
 &nbsp;&nbsp;
-![website](./img/linkedin-light.svg)](https://linkedin.com/in/hugo-strand#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/hugo-strand#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/hugo-strand#gh-dark-mode-only)
 
 ### github stats
